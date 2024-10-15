@@ -1,5 +1,5 @@
-- Hi, I’m @n-sweeney, a Computer Science student at University of York.
-- I am currently in my second year, and have collected my previous projects to showcase them here.
+- Hi, I’m @n-sweeney, a final year Computer Science student at University of York.
+- This github showcases my previous projects that are allowed to be public.
 
 
 <!---
